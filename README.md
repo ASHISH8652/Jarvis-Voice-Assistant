@@ -145,10 +145,6 @@ Ashish Kumar Prusty
 🧾 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
-
-💬 Author
-
-Ashish Kumar Prusty
 🌐 GitHub Profile :https://github.com/ASHISH8652/Jarvis_AI_Assistant.git
 
 
